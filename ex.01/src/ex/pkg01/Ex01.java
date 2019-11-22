@@ -15,7 +15,8 @@ public class Ex01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");   // TODO code application logic here
+        System.out.println("Hello world");
+        System.out.println("Treinamento Git");   // TODO code application logic here
     }
     
 }
